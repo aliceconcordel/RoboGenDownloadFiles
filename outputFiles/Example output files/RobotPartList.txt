@@ -1,0 +1,27 @@
+List of parts contained in robot:
+ActiveWheel: 2
+ActiveWheg: 1
+CoreComponentNoIMU: 1
+FixedBrick: 5
+IrSensor: 3
+ParametricJoint: 3
+PassiveWheel: 2
+----------------------------
+List of stl files to 3D print:
+ActiveWheelMotorHolder.stl: 3
+Core.stl: 6
+IrSensor.stl: 3
+PassiveWheelPlate.stl: 2
+PassiveWheelRing.stl: 2
+--Specific parts:
+ParametricJoint_SensorJointMiddle1.stl
+ParametricJoint_SensorJointMiddle2.stl
+ActiveWheel_RightWheel1.stl
+ParametricJoint_SensorJointRight1.stl
+ParametricJoint_SensorJointRight2.stl
+ActiveWheel_LeftWheel1.stl
+ParametricJoint_SensorJointLeft1.stl
+ParametricJoint_SensorJointLeft2.stl
+ActiveWheg_ActiveWheg11.stl
+PassiveWheel_PassiveWheelLeft1.stl
+PassiveWheel_PassiveWheelRight1.stl
